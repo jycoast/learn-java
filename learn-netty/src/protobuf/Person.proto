@@ -1,0 +1,12 @@
+syntax = "proto2";
+package com.jyc.protobuf;
+
+option optimize_for = SPEED;
+option java_package = "com.jyc.protobuf";
+option java_outer_classname = "DateInfo";
+
+message student {
+  required string name = 1;
+  optional int32 age = 2;
+  optional string address = 3;
+}

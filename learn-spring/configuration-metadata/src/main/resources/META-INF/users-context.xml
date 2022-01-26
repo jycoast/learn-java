@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<beans xmlns="http://www.springframework.org/schema/beans"-->
+<!--       xmlns:users="http://jycoder.org/schema/users"-->
+<!--       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+<!--       xsi:schemaLocation="http://www.springframework.org/schema/beans-->
+<!--       http://jycoder.org/schema/users">-->
+
+<!--    <users:user id="1" name="jiyongchao" city="SHANGHAI" />-->
+
+<!--</beans>-->
